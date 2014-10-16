@@ -1,0 +1,26 @@
+[
+    "index.md",
+    [
+        "slide-0.html",
+        "slide-0-expand1.html",
+        "slide-0-expand2.html",
+        "slide-0-expand3.html"
+    ],
+    [
+        "slide-0-vertical.html"
+    ],
+    "slide-1.html",
+    [
+        "slide-1-vertical.html",
+        "slide-1-vertical-2.html",
+        "slide-1-vertical-3.html"
+    ],
+    "slide-2.html",
+    [
+        "slide-2-vertical.html"
+    ],
+    "slide-3.html",
+    "slide-4.html",
+    "slide-5.html"
+
+]

@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Designing Email for everthing",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "Swooop",
+    "githubRepository": "Responsive_Design"
+  }
+}
