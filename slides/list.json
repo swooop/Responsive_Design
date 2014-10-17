@@ -22,8 +22,14 @@
         "slide-2-vertical.html"
     ],
     "slide-3.html",
+    [
+        "slide-3-verical1.html",
+        "slide-3-vertical2.html",
+        "slide-3-vertical3.html"
+    ],
     "slide-4.html",
     "slide-5.html",
-    "meteor.html",
-    "details.html"
+    "details.html",
+    "meteor.html"
+
 ]

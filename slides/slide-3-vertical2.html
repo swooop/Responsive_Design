@@ -1,0 +1,27 @@
+<h2>The illusive two column layout</h2>
+
+<<pre>
+  <code data-trim>
+  <table width="640" border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+    <table width="320" border="0" cellspacing="0" cellpadding="20" align="left">
+      <tr>
+        <td><p>Column Left Content</p></td>
+      </tr>
+    </table>
+    <table width="320" border="0" cellspacing="0" cellpadding="20" align="right">
+      <tr>
+        <td><p>Column Right Content</p></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+  </code>
+</pre>
+
+<aside class="notes">
+  We've basically made a table with two cols and used align (not float).
+  As long as the two columns individually don't add up to more than the main column... 2 nice columns
+</aside>
